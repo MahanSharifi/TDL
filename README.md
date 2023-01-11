@@ -10,13 +10,6 @@ Tech Stack: <span dir="">Kotlin, Jetpack Compose, AWS Lambda, AWS API Gateway, A
 
 [Website](https://mahansharifi.github.io/346-Tisk/Home)
 
-## Project Details
-
-* [1. Introduction](Introduction)
-* [2. Requirements](Requirements)
-* [3. Analysis & Design](Analysis%20&%20Design)
-* [4. Implementation](Implementation)
-* [5. Testing](Testing)
 
 ## Usage Instructions
 
