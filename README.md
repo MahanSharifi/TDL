@@ -4,8 +4,6 @@ Tisk: A to-do list application for Windows, MacOS, Linux systems.
 
 ![image](/uploads/a77e2e47655842c99f2541fe72c03555/image.png)
 
-Team: Mahan Sharifi, Trevor Sun, Jasmine Xu, Shawn Sun (Team 202)
-
 Tech Stack: <span dir="">Kotlin, Jetpack Compose, AWS Lambda, AWS API Gateway, AWS Incognito</span>
 
 [Website](https://mahansharifi.github.io/346-Tisk/Home)
