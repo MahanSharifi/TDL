@@ -1,4 +1,4 @@
-## Fall 2022 CS346 Project [(Version 4.4.0)](Sprint-4-Release(LATEST-VERSION))
+## Fall 2022 [(Version 4.4.0)](Sprint-4-Release(LATEST-VERSION))
 
 Tisk: A to-do list application for Windows, MacOS, Linux systems.
 
