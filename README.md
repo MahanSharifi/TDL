@@ -1,4 +1,4 @@
-## Fall 2022 [(Version 4.4.0)](Sprint-4-Release(LATEST-VERSION))
+## Fall 2022 
 
 Tisk: A to-do list application for Windows, MacOS, Linux systems.
 
@@ -93,9 +93,21 @@ Native Parameter Store Access
 * Used to detect current desktop mode (Night/light theme)
 
 ## Releases
+Sprint 1:
+Windows: * [Windows installer](https://git.uwaterloo.ca/j366sun/tisk_installers/-/raw/main/Tisk-1.0-1.0.0.exe?inline=false)
 
-* [Sprint 1 Release](Sprint%201%20Release)
-* [Sprint 2 Release](Sprint%202%20Release)
-* [Sprint 3 Release 1](Sprint%203%20Release1)
-* [Sprint 3 Release 2](Sprint-3-Release2(LATEST-VERSION))
-* [Sprint 4 Release(LATEST VERSION)](Sprint-4-Release(LATEST-VERSION))
+MAC: * [macOS installer](https://git.uwaterloo.ca/j366sun/tisk_installers/-/raw/main/CS346-Tisk-1.0.0.dmg?inline=false)
+
+
+Sprint 2:
+Windows:
+MAC:
+
+Sprint 3:
+Windows:
+MAC:
+
+Sprint 4:
+Windows:
+MAC:
+
