@@ -89,11 +89,6 @@ Hotkeys/shortcuts:
 * ctrl + p (duplicateTodays Tasks)
 * ctrl + w (sortTomorrows Tasks)
 
-## Installation Instructions
-
-To install **Tisk**, choose one of the versions below.
-
-The latest version is: [Sprint 4 Release](Sprint-4-Release(LATEST-VERSION))
 
 ## Dependencies (Third Party Libraries)
 
