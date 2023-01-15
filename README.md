@@ -3,6 +3,7 @@
 Tisk: A to-do list application for Windows, MacOS, Linux systems.
 
 * [Main Features Youtube Guide](https://www.youtube.com/watch?v=CswWanrHm1k)
+* [SignIN Youtube Guide](https://youtu.be/2VhXFM-Ffdc)
 
 Tech Stack: <span dir="">Kotlin, Jetpack Compose, AWS Lambda, AWS API Gateway, AWS Incognito</span>
 
@@ -74,7 +75,7 @@ Here are some basic instructions for using Tisk(thorough tutorial on website, in
 Video Instructions:
 
 * [Main Features Guide](https://www.youtube.com/watch?v=CswWanrHm1k)
-
+* [SignIN Youtube Guide](https://youtu.be/2VhXFM-Ffdc)
 
 Hotkeys/shortcuts:
 
