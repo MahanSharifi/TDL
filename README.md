@@ -74,8 +74,7 @@ Here are some basic instructions for using Tisk(thorough tutorial on website, in
 Video Instructions:
 
 * [Main Features Guide](https://www.youtube.com/watch?v=CswWanrHm1k)
-* [SignIn Guide](https://git.uwaterloo.ca/m48shari/cs346-project/-/blob/main/our%20documents/SignIn.mp4)
-* [MacOS Installation Guide](https://gitlab.uwaterloo.ca/j366sun/tisk_installers/-/blob/main/Screen_Recording_2022-12-05_at_5.30.52_PM.mov)
+
 
 Hotkeys/shortcuts:
 
