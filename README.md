@@ -44,7 +44,7 @@ If you have Ventura:
 
 If you have previous versions of MacOS, consider updating to the latest System.
 
-Or, follow the link that Jeff found for detailed information : https://iboysoft.com/news/app-is-damaged-and-cannot-be-opened.html
+Or, follow the link for detailed information : https://iboysoft.com/news/app-is-damaged-and-cannot-be-opened.html
 
 p.s. Since Apple requires all 3-rd party apps to be signed and notarized and this process costs 120 CAD, we will not be signing the app this term and thus the only way to open the app is to use the resources linked above
 
