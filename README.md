@@ -15,17 +15,24 @@ MAC: * [macOS installer](https://git.uwaterloo.ca/j366sun/tisk_installers/-/raw/
 
 
 Sprint 2:
-Windows:
-MAC:
+Windows:* [Windows installer](https://git.uwaterloo.ca/j366sun/tisk_installers/-/raw/main/Tisk-2.1-2.1.0.exe?inline=false)
 
-Sprint 3:
-Windows:
-MAC:
+MAC:* [macOS installer](https://git.uwaterloo.ca/j366sun/tisk_installers/-/raw/main/Tisk-2.1-2.1.0.dmg?inline=false)
 
-Sprint 4:
-Windows:
-MAC:
+Sprint 3 Release 1:
+Windows:* [Windows installer](https://git.uwaterloo.ca/j366sun/tisk_installers/-/raw/main/Tisk-3.0-3.0.0.exe?inline=false)
+MAC:* [macOS installer](https://git.uwaterloo.ca/j366sun/tisk_installers/-/raw/main/Tisk-3.0-3.0.0.dmg?inline=false)
 
+
+Sprint 3 Release 2:
+Windows:* [Windows installer](https://gitlab.uwaterloo.ca/j366sun/tisk_installers/-/raw/main/Tisk-3.2-3.2.0.exe?inline=false)
+MAC:* [macOS installer](https://gitlab.uwaterloo.ca/j366sun/tisk_installers/-/raw/main/Tisk-3.2-3.2.0.dmg?inline=false)
+
+
+Sprint 4: FINAL VERSION
+Windows:* [Windows installer](https://gitlab.uwaterloo.ca/j366sun/tisk_installers/-/raw/main/Tisk-4.4-4.4.0.exe?inline=false)
+MAC:* [macOS installer](https://gitlab.uwaterloo.ca/j366sun/tisk_installers/-/raw/main/Tisk-4.4-4.4.0.dmg?inline=false)
+Linux: * [Linux installer](https://gitlab.uwaterloo.ca/j366sun/tisk_installers/-/raw/main/Tisk-4.4-macos-arm64-4.4.0.jar?inline=false)
 
 MacOS installation guide:
 
