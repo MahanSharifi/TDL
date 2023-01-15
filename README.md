@@ -1,4 +1,4 @@
-## Fall 2022 
+## TISK - TO-DO List Multiplatform Desktop Application
 
 Tisk: A to-do list application for Windows, MacOS, Linux systems.
 
