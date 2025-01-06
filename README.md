@@ -1,12 +1,11 @@
 ## TISK - TO-DO List Multiplatform Desktop Application
 
 ## CODE HERE!!!!! ****: https://drive.google.com/file/d/12XFLTZpjgYsL2m2OKyXqDShWo8IJNOF_/view?usp=sharing
-# Due to having it uploaded on another version controller, it would not let me upload to github, but the ZIP is available here.
+Due to having it uploaded on another version controller, it would not let me upload to github, but the ZIP is available here.
 
 Tisk: A to-do list application for Windows, MacOS, Linux systems.
-
-* [Main Features Youtube Guide](https://www.youtube.com/watch?v=CswWanrHm1k)
-* [SignIN Youtube Guide](https://youtu.be/2VhXFM-Ffdc)
+# [Main Features Youtube Guide](https://www.youtube.com/watch?v=CswWanrHm1k)
+# [SignIN Youtube Guide](https://youtu.be/2VhXFM-Ffdc)
 
 Tech Stack: <span dir="">Kotlin, Jetpack Compose, AWS Lambda, AWS API Gateway, AWS Incognito</span>
 
