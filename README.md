@@ -1,6 +1,6 @@
 ## TISK - TO-DO List Multiplatform Desktop Application
 
-## CODE HERE! **: https://drive.google.com/file/d/12XFLTZpjgYsL2m2OKyXqDShWo8IJNOF_/view?usp=sharing
+## Code Here! **: https://drive.google.com/file/d/12XFLTZpjgYsL2m2OKyXqDShWo8IJNOF_/view?usp=sharing
 Due to having it uploaded on another version controller, it would not let me upload to github, but the ZIP is available here.
 
 Tisk: A to-do list application for Windows, MacOS, Linux systems.
